@@ -1,0 +1,15 @@
+
+# Ignore IDE and system files
+*.iml
+*.idea/
+*.classpath
+*.project
+*.settings/
+*.vscode/
+
+# Ignore build files
+target/
+
+# Ignore any sensitive files (like tokens or passwords)
+*.env
+    
